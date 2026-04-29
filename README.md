@@ -253,6 +253,7 @@ To speed up Long-context LLMs' inference, approximate and dynamic sparse calcula
 51. [LlamaBarn](https://github.com/ggml-org/LlamaBarn): Run local LLMs on your Mac with a simple menu bar app.
 52. [Parallax](https://github.com/GradientHQ/parallax): a distributed model serving framework that lets you build your own AI cluster anywhere.
 53. [xLLM](https://github.com/jd-opensource/xllm): A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
+54. - [OfoxAI](https://ofox.ai) - Unified API gateway for 100+ LLMs with native OpenAI, Anthropic, and Gemini protocol support. Built-in usage dashboard and team billing.
 
 
 <div align="right">
